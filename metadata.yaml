@@ -1,5 +1,8 @@
 _repo: Torquemada-and-the-Spanish-Inquisition-A-History_53021
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53021-h/images/cover.jpg
 creator:
   author:
     agent_name: Sabatini, Rafael
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/640
     wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53021#Torquemada-and-the-Spanish-Inquisition-A-History
 gutenberg_issued: '2016-09-09'
 gutenberg_type: Text
 identifiers:
