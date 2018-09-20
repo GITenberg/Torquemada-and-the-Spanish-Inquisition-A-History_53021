@@ -1,0 +1,27 @@
+_repo: Torquemada-and-the-Spanish-Inquisition-A-History_53021
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+description: ''
+gutenberg_issued: '2016-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Torquemada, Tomás, de, 1420-1498'
+- !lcc 'BX'
+- !lcsh 'Inquisition -- Spain'
+- GITenberg
+title: 'Torquemada and the Spanish Inquisition: A History'
+url: http://www.gutenberg.org/ebooks/53021
